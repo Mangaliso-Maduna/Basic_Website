@@ -1,0 +1,7 @@
+Project Title: Basic website
+
+The basic website is a responsive web application designed using HTML & CSS Framework. for this project we'll be making use of simple grid layout as well as the flexbox (hence the two files my-webpage-grid.html and my-webpage.html).
+
+** my-webpage.html- is designed using plain html
+** my-webpage-grid.html- is a web page designed using simple grid.
+**index.html is the main page linking the above files.
