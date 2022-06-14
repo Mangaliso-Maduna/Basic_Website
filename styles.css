@@ -3,7 +3,10 @@
         display: flex;
         flex-direction: column;
     }
-
+    .city img {
+      max-width: 90%;
+      min-height: 200px;
+    }
     .city{
         display: flex;
         border-bottom: black solid 2px;
